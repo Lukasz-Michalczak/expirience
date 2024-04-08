@@ -1,12 +1,19 @@
-### Łukasz Michalczak
+# Łukasz Michalczak
 
-#### Frontend Developer
+## What my colleagues say about me
 
-I'ma passionate and business-oriented developer with extensive experience in frontend technologies and fullstack projects, specializing in the development of web applications for various industries.
+**Łukasz is someone I can always count on:** 
+
+> Thank you very much for your commitment to the role of CFP in our JS recruitments! For your readiness to act, taking care of Candidate Experience, openness, and great feedback for candidates!
+Simply thank you very much for your commitment! :) 
+
+**Łukasz inspires the team to keep working hard:**
+
+> Super-fast and seamless introduction to the project. I very much appreciate your commitment and self-reliance
 
 ---
 
-### My challenges so far
+## My challenges so far
 
 #### Quality Assurance of Catering Services
 - **Role:** Frontend Developer
